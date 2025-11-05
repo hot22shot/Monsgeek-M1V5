@@ -4,5 +4,5 @@
 * layout : via json layouts for the keyboard.
 * manual : the manual from monsgeek
 
-* > [!TIP]
-> * The Fn key backlight will stay green until the battery  is charged, even in cable mode.
+> [!TIP]
+> The Fn key backlight will stay green until the battery  is charged, even in cable mode.
